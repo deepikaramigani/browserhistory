@@ -1,0 +1,30 @@
+.list-style {
+  list-style-type: none;
+}
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.time-accessed {
+  color: #64748b;
+  font-weight: bold;
+  margin-right: 5%;
+}
+.domain-logo {
+  width: 25px;
+  margin: 10px;
+}
+.title {
+  color: #475569;
+  font-weight: bold;
+  margin-right: 2%;
+}
+.domain-url {
+  color: #64748b;
+}
+.delete-logo {
+  margin-left: auto;
+  cursor: pointer;
+}
